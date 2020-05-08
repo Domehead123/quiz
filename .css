@@ -10,3 +10,7 @@ font-family: 'Righteous', cursive;
 font-size: 3em;
 }
 
+span {
+    color: red;
+    font-weight: bold;
+}
