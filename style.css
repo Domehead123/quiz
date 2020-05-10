@@ -82,6 +82,11 @@ span {
     color: #000;
 }
 
+.answers {
+    color: green;
+    font-size: 1.5em;
+}
+
 @media only screen and (max-width: 764px) {
  
  .container {
